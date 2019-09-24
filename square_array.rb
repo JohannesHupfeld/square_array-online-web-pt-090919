@@ -13,4 +13,5 @@
 def aquare_array(array)
   numbers = [1,2,3]
   new_array = []
+  counter = 0
 end 
