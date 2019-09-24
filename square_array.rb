@@ -10,7 +10,7 @@
 # new_array 
 #end
 
-def aquare_array(array)
+def square_array(array)
   numbers = [1,2,3]
   new_array = []
   counter = 0
